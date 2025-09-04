@@ -13,3 +13,7 @@ git clone https://github.com/gadalubau1337/BotDDoSForDiscord
 cd BotDDoSForDiscord
 npm install
 node index.js
+
+EXAMPEL .env
+DISCORD_TOKEN=your_discord_bot_token
+OWNER_ID=your_discord_user_id
